@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "ElhamerOussama 5/7/2017 21:03",
+	"super" : "Object",
+	"category" : "ExperimentPackage",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ExperimentClass",
+	"type" : "normal"
+}
